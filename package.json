@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-falsy",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "Test if a value is falsy.",
   "license": "Apache-2.0",
   "author": {
