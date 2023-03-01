@@ -141,8 +141,8 @@ bool = isFalsy( function foo() {} );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/assert/is-falsy-array`][@stdlib/assert/is-falsy-array]</span><span class="delimiter">: </span><span class="description">test if a value is an array-like object containing only falsy values.</span>
--   <span class="package-name">[`@stdlib/assert/is-truthy`][@stdlib/assert/is-truthy]</span><span class="delimiter">: </span><span class="description">test if a value is truthy.</span>
+-   <span class="package-name">[`@stdlib/assert-is-falsy-array`][@stdlib/assert/is-falsy-array]</span><span class="delimiter">: </span><span class="description">test if a value is an array-like object containing only falsy values.</span>
+-   <span class="package-name">[`@stdlib/assert-is-truthy`][@stdlib/assert/is-truthy]</span><span class="delimiter">: </span><span class="description">test if a value is truthy.</span>
 
 </section>
 
