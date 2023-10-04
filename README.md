@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isFalsy from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-falsy@esm/index.mjs';
+import isFalsy from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-falsy@v0.1.1-esm/index.mjs';
 ```
 
 #### isFalsy( value )
@@ -90,7 +90,7 @@ bool = isFalsy( [] );
 <body>
 <script type="module">
 
-import isFalsy from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-falsy@esm/index.mjs';
+import isFalsy from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-falsy@v0.1.1-esm/index.mjs';
 
 var bool = isFalsy( false );
 // returns true
